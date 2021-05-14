@@ -1,8 +1,8 @@
 /*
  * Name: Weather Station 
- * Date: 10/05/2021
+ * Date: 13/05/2021
  * Author: Edgar Cano
- * Ver: 0.1
+ * Ver: 1.0
  * Desc: - Estación meteorologica, proporciona 
  *        humedad, temperatura, hora y fecha...
  * HW:   - Sensor DS3231/DHT11/Pantalla LCD.
